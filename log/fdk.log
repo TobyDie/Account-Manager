@@ -1303,3 +1303,5 @@ To test the installation page, visit - http://localhost:10001/custom_configs
 2024-09-16 16:06:04.414 +0700 [debug] ([34mcoverage.js[0m) [31mInstrumenting /Users/tobydietz/Account Manager/app/app.js[0m
 2024-09-16 16:06:06.540 +0700 [debug] ([34mcoverage.js[0m) [31mWriting coverage.[0m
 2024-09-16 16:06:18.534 +0700 [debug] ([34mcoverage.js[0m) [31mWriting coverage.[0m
+2024-09-16 16:15:54.303 +0700 [info] 
+NOTE: We recommend a coverage of 80% for apps that are to be published in the public marketplace.
