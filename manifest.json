@@ -1,0 +1,29 @@
+{
+  "platform-version": "2.3",
+  "product": {
+    "freshworks_crm": {
+      "location": {
+        "contact_entity_menu": {
+          "url": "index.html",
+          "icon": "icon.svg"
+        }
+      }
+    }
+  },
+  "name": "Account Management",
+  "engines": {
+    "node": "18.18.2",
+    "fdk": "9.2.0"
+  },
+  "runtime": {
+    "version": "18.x"
+  },
+  "dev": {
+    "permissions": [
+      "read_contacts",
+      "write_contacts",
+      "external_api"
+    ]
+  },
+  "dependencies": {}
+}

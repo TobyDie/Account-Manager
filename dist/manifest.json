@@ -1,0 +1,13 @@
+{
+  "platform-version": "2.3",
+  "product": {
+    "freshdesk": {
+      "location": {
+        "contact_sidebar": {
+          "url": "index.html",
+          "icon": "icon.svg"
+        }
+      }
+    }
+  }
+}
